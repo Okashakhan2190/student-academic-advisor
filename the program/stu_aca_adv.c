@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    int age, num1, num2, num3;
+    int age, num1, num2, num3;  // modoification
     float assignment, total_assignment;
    float avg, attendance, total_marks;
     char name[50], roll[20];
